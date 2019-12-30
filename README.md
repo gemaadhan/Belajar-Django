@@ -1,3 +1,3 @@
 # Belajar-Django
 
-> just a personal note, because human memory is very limited
+just a personal note, because ~human~ my memory is very limited
